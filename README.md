@@ -1,2 +1,2 @@
 # React-Redux
-Assignment based on 
+Assignment based on React-Redux
